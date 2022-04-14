@@ -5,8 +5,8 @@
 
 - 👋 Hi, I’m Eugene 
 - 👀 I’m interested in Data Analytics, Big Data and Machine Learning
-- 🌱 I’m currently learning PySpark, Hadoop, Microsoft Azure
 - ✨ I'm able to do Python, familiar with libraries including ``pandas``, ``scikit-learn``, ``numpy``, ``matplotlib``
+- ✨ I'm also able to use PySpark, Hadoop HDFS, Microsoft Azure Data Factory
 
 
 <!---
