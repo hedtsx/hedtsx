@@ -1,6 +1,6 @@
 
 <p align='left'>
-<a href="www.linkedin.com/in/yuhang-eugene-song-53b692172"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="http://www.linkedin.com/in/yuhang-eugene-song-53b692172"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 - 👋 Hi, I’m Eugene 
